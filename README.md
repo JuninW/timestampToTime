@@ -2,7 +2,8 @@
 ###### - 前言：因为最近公司项目中自己经常要用到时间有关的数据 所以就自己写了个插件
 ###### - function：目前暂时更新三种用法
 #### 安装
-               npm times-time 
+                npm install times-time          # 本地安装
+                npm install times-time -g      # 全局安装
 ##
 
                1.timestampToTime (将时间戳转为时间）
